@@ -17,4 +17,4 @@ In the end, it was found that a final layer with GlobalAveragePooling and a Soft
 Replacing the Drab tagged images with Dull tagged images yielded a much lower accuracy. This might likely be because the difference between Sensational and Dull images are not as distinct as that of Sensational and Drab images.
 
 ### Test Accuracy
-Overall, the test acccuracy was around 85%.
+Overall, the test acccuracy was around 85% and can be downloaded here: https://drive.google.com/file/d/1k8AX7WQqz3DsuX1L3DgTyvkKSzyeQYbb/view
