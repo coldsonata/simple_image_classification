@@ -18,3 +18,5 @@ Replacing the Drab tagged images with Dull tagged images yielded a much lower ac
 
 ### Test Accuracy
 Overall, the test acccuracy was around 85% and can be downloaded here: https://drive.google.com/file/d/1k8AX7WQqz3DsuX1L3DgTyvkKSzyeQYbb/view
+
+The model might be further improved through ensemble learning, or a more detailed hyper-parameter grid search.
